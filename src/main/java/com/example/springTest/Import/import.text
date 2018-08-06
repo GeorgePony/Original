@@ -1,0 +1,4 @@
+Import注解有三种使用方式
+ 1、基于Configuration注解，直接填入对应的class数组
+ 2、基于自定义ImportSelector 的使用
+ 3、基于ImportBeanDefinitionRegistrar 使用
